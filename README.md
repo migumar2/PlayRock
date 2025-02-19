@@ -1,4 +1,6 @@
 # playrock
+![PlayRock](logo.png)
+
 Este repositorio contiene todos los artfactos vinculados con el oproyecto PlayRock, descrito dentro del artículo "Aprendizaje activo de Bases de Datos orientado a competencias en Ingeniería Informática", actualmente en revisión en las XXXI Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2025).
 
 - El directorio *pliegos* contiene las tres versiones del **pliego** del proyecto que sirvieron para describir el alcance de cada uno de sus spris.
